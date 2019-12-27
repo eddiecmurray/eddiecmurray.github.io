@@ -46,6 +46,11 @@ favicon_img: yes
 favicon_img_path: "imgs/favicon1.ico"
 #favicon_img_path: "https://external.url/favicon.ico"
 
+#
+# Plugins
+#
+plugins:
+  - jekyll-redirect-from
 
 # Build settings
 markdown: kramdown
